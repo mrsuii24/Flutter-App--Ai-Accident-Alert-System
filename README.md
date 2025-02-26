@@ -16,3 +16,5 @@ Future Enhancements :
 Integration with Wearable Devices ⌚
 Adaptive Sensitivity for Various Vehicles 🚗🏍️
 Multi-Sensor Data Fusion for Higher Accuracy 🎛️
+project uses Dart source files (.dart extension) for Flutter app development
+Dart is designed to build smooth and expressive user interfaces, making it perfect for Flutter.
